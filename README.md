@@ -63,11 +63,6 @@ Git | GitHub Actions | Jenkins | Docker | Linux
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobcode003&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobcode003&layout=compact)
 
 ---
 
