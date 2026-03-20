@@ -14,6 +14,7 @@ My goal is to engineer intelligent systems that solve high-impact problems — n
 - Healthcare prediction systems
 - NLP specialization
 - Agritech
+- Fintech
 
 ---
 
@@ -31,12 +32,12 @@ Hybrid trading engine combining:
 
 
 
-### 🔹 AI Crop Disease Detection
+### 🔹 AI Crop Diagnosis + AI data driven agricultural support
 Computer vision system using:
-- Transfer Learning (MobileNet)
+- Transfer Learning (EfficientNetB0)
 - Image preprocessing pipeline
 - Model evaluation & error analysis
-- Real-world dataset constraints handling
+- AI agricultural assistant
 
 ---
 
@@ -90,6 +91,12 @@ To become a specialist in:
 
 LinkedIn: www.linkedin.com/in/job-nyaribari 
 Portfolio: https://nyaribarijob.netlify.app/
+
+<a href="http://www.github.com/jobcode003"><img src="https://github-readme-stats.vercel.app/api?username=jobcode003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jobcode003's GitHub stats" /></a>
+
+<a href="http://www.github.com/jobcode003"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jobcode003&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/jobcode003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobcode003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
