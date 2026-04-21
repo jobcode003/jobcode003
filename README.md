@@ -156,7 +156,8 @@ To become a specialist in:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobcode003)](https://github.com/jobcode003/github-readme-stats)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobcode003&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobcode003&commits_year=2026)
 
 </div>
 
