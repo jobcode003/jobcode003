@@ -1,0 +1,29 @@
+# Portfolio Summary for Job Nyaribari
+
+## Top 5 Projects
+1. [Project One](http://link-to-project-one.com) - Brief description of project one.
+2. [Project Two](http://link-to-project-two.com) - Brief description of project two.
+3. [Project Three](http://link-to-project-three.com) - Brief description of project three.
+4. [Project Four](http://link-to-project-four.com) - Brief description of project four.
+5. [Project Five](http://link-to-project-five.com) - Brief description of project five.
+
+## Technical Skills Quick Reference
+- Skill 1 
+- Skill 2 
+- Skill 3 
+- Skill 4 
+- Skill 5 
+
+## Achievements
+- Achievement 1
+- Achievement 2
+- Achievement 3
+
+## Portfolio Recommendations
+- Recommendation 1
+- Recommendation 2
+- Recommendation 3
+
+---
+
+*Summary generated on 2026-04-21 10:49:54 UTC*
