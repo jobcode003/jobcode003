@@ -153,11 +153,10 @@ To become a specialist in:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobcode003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/jobcode003)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobcode003)](https://github.com/jobcode003/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jobcode003&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabelsColor=ffffff&dates=ffffff&hide_border=true)](https://github.com/jobcode003)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobcode003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/jobcode003)
+
 
 </div>
 
