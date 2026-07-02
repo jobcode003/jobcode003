@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:16213e&height=200&section=header&text=Job%20Nyaribari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26%20AI%20Systems%20Engineer&descSize=18&descAlignY=55&descAlign=50)
+<img src="./profile/header.svg" width="100%" alt="Job Nyaribari — ML & AI Systems Engineer"/>
 
 <img src="https://github.com/jobcode003.png" width="120" style="border-radius:50%;" alt="Job Nyaribari"/>
 
@@ -33,16 +33,16 @@ I have architected and delivered platforms in telemedicine, precision agricultur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jobcode003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=jobcode003&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="./profile/stats.svg" height="195" alt="GitHub Stats"/>
+<img src="./profile/streak.svg" height="195" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobcode003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" height="195" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jobcode003&theme=tokyonight&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img src="./profile/profile-details.svg" alt="GitHub Profile Summary"/>
 
 <br/>
 
@@ -250,7 +250,7 @@ A responsive personal portfolio presenting project work, technical skills, and p
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1b27&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn)
+**Thanks for visiting!**
 
 *Last updated: July 2026*
 
