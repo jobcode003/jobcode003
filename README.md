@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="./profile/header.svg" width="100%" alt="Job Nyaribari — ML & AI Systems Engineer"/>
+  <img src="./profile/header.svg" width="100%" height="140" alt=""/>
 
-<img src="https://github.com/jobcode003.png" width="120" style="border-radius:50%;" alt="Job Nyaribari"/>
+  <img
+    src="https://github.com/jobcode003.png"
+    width="130"
+    alt="Job Nyaribari"
+    style="border-radius:50%; margin-top:-70px; border:4px solid #16213e; background-color:#16213e;"
+  />
 
-<br/>
+  <h2>Job Nyaribari</h2>
+  <p><strong>Machine Learning & AI Systems Engineer</strong></p>
+
+  <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems;Healthcare+%7C+Fintech+%7C+Agriculture+%7C+Legal+Tech;RAG+%7C+Computer+Vision+%7C+Multi-Agent+Orchestration)](https://git.io/typing-svg)
 
@@ -217,11 +225,7 @@ A responsive personal portfolio presenting project work, technical skills, and p
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jobcode003/jobcode003/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jobcode003/jobcode003/output/github-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/jobcode003/jobcode003/output/github-snake-dark.svg">
-</picture>
+<img src="./profile/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 

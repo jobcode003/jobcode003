@@ -8,6 +8,7 @@ on:
     branches: [main, master]
     paths:
       - ".github/workflows/profile-assets.yml"
+      - "README.md"
 
 jobs:
   build:
@@ -41,11 +42,17 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download header banner
-        run: |
-          curl -fsSL \
-            "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Job%20Nyaribari&fontSize=40&desc=ML%20%26%20AI%20Systems%20Engineer&descAlignY=55" \
-            -o profile/header.svg
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        continue-on-error: true
+        with:
+          github_user_name: jobcode003
+          outputs: |
+            profile/github-snake.svg
+            profile/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate contribution snake (fallback)
+        run: python3 scripts/generate_contribution_snake.py
 
       - name: Download profile summary card
         run: |
